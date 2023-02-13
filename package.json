@@ -7,7 +7,8 @@
   "dependencies": {
     "canvas": "^2.10.2",
     "is-url": "^1.2.4",
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.7",
+    "pdfjs-dist": "https://github.com/Julzk/pdfjs-dist/tarball/jkr-01"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
